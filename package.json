@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production",
+    "build": "next build",
+    "start": "next start",
     "svg": "svgr -d src/components/icons src/components/icons/svgs"
   },
   "dependencies": {
@@ -45,16 +45,12 @@
     "autoprefixer": "^9.8.6",
     "babel-core": "*",
     "babel-loader": "^8.2.2",
-    "html-webpack-plugin": "^5.3.2",
     "install": "^0.13.0",
     "postcss": "^7.0.35",
     "postcss-flexbugs-fixes": "^5.0.1",
     "postcss-import": "^13.0.0",
     "postcss-preset-env": "^6.7.0",
     "precss": "^4.0.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.4",
-    "webpack": "^4.46.0",
-    "webpack-cli": "^4.8.0",
-    "webpack-dev-server": "^3.11.2"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.4"
   }
 }
