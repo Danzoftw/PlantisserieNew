@@ -1,0 +1,320 @@
+.about-section-1 .about-text {
+  top: -65px;
+  left: 30px;
+}
+@media (min-width: 768px) {
+  .about-section-1 .about-text {
+    top: 35px;
+    left: 50px;
+  }
+}
+@media (min-width: 991px) {
+  .about-section-1 .about-text {
+    top: -15px;
+    left: 50px;
+  }
+}
+@media (min-width: 1024px) {
+  .about-section-1 .about-text {
+    top: -15px;
+    left: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .about-section-1 .about-text {
+    top: 55px;
+    left: 0;
+  }
+}
+.about-section-1 .about-text .about-cite p:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #AAAAAA;
+  width: 12px;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.about-section-1 .about-text .about-text-para img {
+  width: 50%;
+  top: 95%;
+  left: 103px;
+}
+@media (min-width: 375px) {
+}
+@media (min-width: 425px) {
+}
+@media (min-width: 475px) {
+}
+@media (min-width: 575px) {
+  .about-section-1 .about-text .about-text-para img {
+    width: 60%;
+  }
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 991px) {
+  .about-section-1 .about-text .about-text-para img {
+    left: 150px;
+    width: 35%;
+  }
+}
+@media (min-width: 1200px) {
+  .about-section-1 .about-text .about-text-para img {
+    left: 185px;
+    width: 40%;
+  }
+}
+.about-section-1 .right-image .img-container img {
+  margin: 0 auto;
+  margin-right: 0;
+}
+@media (min-width: 768px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 65%;
+    margin: 0 auto;
+    margin-right: 0;
+  }
+}
+@media (min-width: 991px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 75%;
+    margin: 0 auto;
+    margin-right: 0;
+  }
+}
+@media (min-width: 1024px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 70%;
+    margin: 0 auto;
+    margin-right: 0;
+  }
+}
+@media (min-width: 1400px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 75%;
+  }
+}
+@media (min-width: 1400px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 75%;
+  }
+}
+@media (min-width: 1500px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 80%;
+  }
+}
+@media (min-width: 1600px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 85%;
+  }
+}
+@media (min-width: 1700px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 90%;
+  }
+}
+@media (min-width: 1800px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 95%;
+  }
+}
+@media (min-width: 1900px) {
+  .about-section-1 .right-image .img-container {
+    max-width: 100%;
+  }
+}
+.about-section-2 .unusual-name {
+  max-width: 100%;
+}
+@media (min-width: 575px) {
+  .about-section-2 .unusual-name {
+    max-width: 70%;
+  }
+}
+.about-section-3 {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+.about-section-3 .row:nth-child(2) {
+  flex-direction: column-reverse;
+}
+@media (min-width: 768px) {
+  .about-section-3 .row:nth-child(2) {
+    flex-direction: row;
+  }
+}
+@media (min-width: 768px) {
+  .about-us-gardenia .sub-container {
+    max-width: 460px;
+    margin: auto;
+  }
+}
+@media (min-width: 991px) {
+  .about-us-gardenia .sub-container {
+    max-width: 560px;
+  }
+}
+@media (min-width: 1200px) {
+  .about-us-gardenia .sub-container {
+    max-width: 660px;
+  }
+}
+.about-us-gardenia .sub-container .plant-world-container .floating-image {
+  left: -54px;
+  top: -41px;
+}
+.about-us-gardenia .sub-container .image {
+  max-width: 150px;
+}
+@media (min-width: 425px) {
+  .about-us-gardenia .sub-container .image {
+    max-width: 200px;
+  }
+}
+@media (min-width: 576px) {
+  .about-us-gardenia .sub-container .image {
+    max-width: 165px;
+  }
+}
+@media (min-width: 991px) {
+  .about-us-gardenia .sub-container .image {
+    max-width: 200px;
+  }
+}
+.about-us-gardenia .sub-container .image .image-collection-container .image-1 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(4.5);
+}
+.about-us-gardenia .sub-container .image .image-collection-container .image-2 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(4.4);
+}
+.about-us-gardenia .sub-container .image .image-collection-container .image-3 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(6);
+}
+.about-us-gardenia .sub-container .image .image-collection-container .inner-circle {
+  height: 60px;
+  width: 60px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.about-us-gardenia .sub-container .image .image-collection-container .inner-circle p {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.about-us-gardenia .sub-container .image .image-collection-container .inner-circle:hover .image-collection-container {
+  display: none;
+}
+.about-us-gardenia .sub-container .image .image-collection-container .inner-circle:hover p {
+  display: none;
+}
+.about-title-world {
+  font-size: 0.875rem;
+  line-height: 25px;
+}
+@media (min-width: 480px) {
+  .about-title-world {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 575px) {
+  .about-title-world {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 767px) {
+  .about-title-world {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 991px) {
+  .about-title-world {
+    font-size: 0.625rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 1200px) {
+  .about-title-world {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+.about-para {
+  font-size: 0.875rem;
+  line-height: 25px;
+}
+@media (min-width: 480px) {
+  .about-para {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 575px) {
+  .about-para {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 767px) {
+  .about-para {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 991px) {
+  .about-para {
+    font-size: 0.875rem;
+    line-height: 25px;
+  }
+}
+@media (min-width: 1200px) {
+  .about-para {
+    font-size: 1.175em;
+    line-height: 1.175em;
+  }
+}
+.about-title {
+  font-size: 4rem;
+  line-height: 4rem;
+}
+@media (min-width: 576px) {
+  .about-title {
+    font-size: 2rem;
+    line-height: 2rem;
+  }
+}
+@media (min-width: 767px) {
+  .about-title {
+    font-size: 3.5rem;
+    line-height: 3.5rem;
+  }
+}
+@media (min-width: 991px) {
+  .about-title {
+    font-size: 3.5rem;
+    line-height: 3.5rem;
+  }
+}
+@media (min-width: 1024px) {
+  .about-title {
+    font-size: 4.5rem;
+    line-height: 4.5rem;
+  }
+}
+@media (min-width: 1200px) {
+  .about-title {
+    font-size: 5.5rem;
+    line-height: 5.5rem;
+  }
+}

@@ -1,0 +1,44 @@
+.store-about-us .inner-container-store {
+  max-width: 250px;
+  margin: auto;
+}
+@media (min-width: 425px) {
+  .store-about-us .inner-container-store {
+    max-width: 300px;
+  }
+}
+@media (min-width: 576px) {
+  .store-about-us .inner-container-store {
+    max-width: 500px;
+  }
+}
+@media (min-width: 768px) {
+  .store-about-us .inner-container-store {
+    max-width: 660px;
+  }
+}
+@media (min-width: 1024px) {
+  .store-about-us .inner-container-store {
+    max-width: 900px;
+  }
+}
+@media (min-width: 576px) {
+  .store-about-us .inner-container-store .image-container {
+    max-width: 350px;
+  }
+}
+@media (min-width: 1024px) {
+  .store-about-us .inner-container-store .image-container {
+    max-width: 300px;
+  }
+}
+.store-about-us .inner-container-store .image-container .front-image {
+  right: -30px;
+  top: 30px;
+  left: 30px;
+}
+.store-about-us .inner-container-store .image-container .doodle {
+  position: absolute;
+  left: -219px;
+  bottom: 0;
+}

@@ -1,0 +1,21 @@
+@import '../styles/navigation.css';
+@import '../styles/Gardenia.css';
+@import '../styles/footer.css';
+@import '../styles/about.css';
+@import '../styles/variables.css';
+@import '../styles/post.css';
+@import '../styles/custom.css';
+@import '../styles/homepage.css';
+@import '../styles/green-thumb.css';
+@import '../styles/store.css';
+@import '../styles/slick.css';
+@import '../styles/single-product.css';
+body p {
+  font-family: 'HK Grotesk';
+}
+body span {
+  font-family: 'HK Grotesk';
+}
+.font-size {
+  font-size: 25px;
+}

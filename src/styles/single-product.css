@@ -1,0 +1,18 @@
+.single-product .product-info .product-description p {
+  font-size: 15px;
+  line-height: 22px;
+}
+.single-product .product-info .bottom-line {
+  box-shadow: 2px 1px 2px #9ca72c;
+  height: 1px;
+}
+.single-product .product-details p::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  height: 1px;
+  background-color: #AAAAAA;
+  width: 100%;
+  bottom: -5px;
+  box-shadow: 0px 0px 2px #AAAAAA;
+}
